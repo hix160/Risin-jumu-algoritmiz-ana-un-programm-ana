@@ -1,1 +1,1 @@
-# Risin-jumu-algoritmiz-ana-un-programm-ana
+# RTU priekšmeta Risinājumu algoritmizēšana un programmēšana darbiņi

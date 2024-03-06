@@ -1,0 +1,1 @@
+# Risin-jumu-algoritmiz-ana-un-programm-ana
